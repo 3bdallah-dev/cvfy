@@ -47,7 +47,7 @@ definePageMeta({
       Made with ♥️ by
       <LandingLink
         class="underline"
-        to="https://www.facebook.com/AbdallahSamy0/"
+        to="https://www.facebook.com/AbdallahSamy0"
         external
       >
         <span class="text-violet-800">
