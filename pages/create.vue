@@ -22,7 +22,7 @@ useHead({
     {
       rel: 'preload',
       as: 'image',
-      href: 'https://cdn.ko-fi.com/cdn/kofi5.png?v=3',
+      href,
     },
     {
       rel: 'canonical',
