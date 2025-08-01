@@ -28,3 +28,4 @@ Demo: https://cvfy.xyz/
 - TailwindCSS
 - Nuxt 3
 - Cloudflare Pages
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/claudiabdm/cvfy)
