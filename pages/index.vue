@@ -47,11 +47,11 @@ definePageMeta({
       Made with ♥️ by
       <LandingLink
         class="underline"
-        to="https://github.com/claudiabdm"
+        to="https://www.facebook.com/AbdallahSamy0/"
         external
       >
         <span class="text-violet-800">
-          claudiabdm
+          Abdallah Samy
         </span>
       </LandingLink>
     </div>
