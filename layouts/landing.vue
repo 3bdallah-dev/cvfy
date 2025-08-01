@@ -117,32 +117,5 @@ useHead({
     <main class="flex">
       <slot />
     </main>
-     <footer class="text-center text-sm py-4 text-gray-500">
-      <div class="credit">
-        Made with ♥️ by
-        <a
-          class="underline"
-          href="https://github.com/3bdallah-dev"
-          rel="noopener"
-          target="_blank"
-          style="color: var(--primary);"
-        >
-          3bdallah-dev
-        </a>
-        using <b>Nuxt 3</b> + <b>TailwindCSS</b>.
-      </div>
-      <div class="mt-2">
-        <a
-          href="https://www.buymeacoffee.com/YOUR_NAME"
-          target="_blank"
-          rel="noopener"
-          class="text-blue-500 underline"
-        >
-          ☕ Buy me a coffee
-        </a>
-      </div>
-    </footer>
-  </div>
-</template>
   </div>
 </template>
