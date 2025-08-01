@@ -7,7 +7,7 @@ const { setUpCvSettings } = useCvState()
 const route = useRoute()
 const { t, locale } = useI18n()
 
-const href = `https://cvfy.xyz${route.path}`
+const href = `https://cvfy.abdallah.us.kg${route.path}`
 
 onMounted(() => {
   setUpCvSettings()
@@ -36,7 +36,7 @@ useHead({
     },
     {
       name: 'author',
-      content: 'claudiabdm',
+      content: 'Abdallah',
     },
     {
       property: 'og:image',
@@ -44,7 +44,7 @@ useHead({
     },
     {
       property: 'og:author',
-      content: 'Claudia Benito',
+      content: 'Abdallah Samy',
     },
     {
       property: 'og:title',
@@ -56,7 +56,7 @@ useHead({
     },
     {
       name: 'twitter:creator',
-      content: '@claudiabdm',
+      content: '@AbdallahSamy',
     },
     {
       name: 'twitter:title',
