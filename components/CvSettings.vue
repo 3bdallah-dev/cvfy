@@ -78,7 +78,7 @@ function getCurrentColor(colorValue: string): {
       <LandingLogo />
       <a
         class="buy-me-a-coffee"
-        href="https://ko-fi.com/X8X4COWK0"
+        href="https://buymeacoffee.com/ejarg4pj3t"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Buy me a coffee"
